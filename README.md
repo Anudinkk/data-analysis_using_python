@@ -55,7 +55,7 @@ df['Height'] = np.random.randint(150, 181, size=len(df))
 - Majority of employees are **SG** and **PF**.
 - **C** Position have least number of employees
 
-*Visualization:* count Plot showing employee count by Position.
+*Visualization:* Pie Plot showing employee count by Position.
 
 ---
 
